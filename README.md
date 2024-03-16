@@ -22,36 +22,36 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## **Desbloqueie o potencial total do seu próximo projeto API com este conjunto de ferramentas poderoso:**
+## Unleash the Full Potential of Your Next API Project with this Powerful Toolkit:
 
-**NestJS + TypeORM + Migration + Tediouss + Compression + Helmet + Class Validator + Class Transformer + Throtller + Mailer + Bcrypt + Multer + Token JWT + NodeMailer +**
+**NestJS + TypeORM + Migration + Tediouss + Compression + Helmet + Class Validator + Class Transformer + Throtller + Mailer + Bcrypt + Multer + JWT Token + NodeMailer +**
 
-**Prepare-se para:**
+**Get ready to:**
 
-- **Desenvolvimento rápido e eficiente:** O NestJS oferece uma estrutura modular e escalável, ideal para APIs complexas.
-- **Acesso a dados simplificado:** O TypeORM facilita o mapeamento de objetos para entidades e a execução de consultas SQL.
-- **Migrações de banco de dados seguras e confiáveis:** Migre seu esquema de banco de dados com segurança e controle total.
-- **Conexões de banco de dados robustas e escaláveis:** O Tediouss garante conexões de alto desempenho com o Microsoft SQL Server.
-- **APIs otimizadas e com alto desempenho:** A compressão Gzip e Brotli garantem tempos de resposta rápidos e menor uso de largura de banda.
-- **Segurança aprimorada:** O Helmet protege sua API contra vulnerabilidades comuns.
-- **Validação de dados robusta e flexível:** O Class Validator garante que apenas dados válidos sejam aceitos pela sua API.
-- **Transformação de dados fácil e eficiente:** O Class Transformer converte seus objetos em diferentes formatos de dados com facilidade.
-- **Controle de acesso granular:** O Throtller permite que você defina limites de taxa para endpoints específicos, protegendo sua API contra sobrecarga.
-- **Envio de emails com facilidade:** O Mailer facilita o envio de emails transacionais e de marketing.
-- **Autenticação segura com criptografia:** O Bcrypt protege as senhas dos seus usuários com criptografia de alto nível.
-- **Upload de arquivos fácil e flexível:** O Multer permite que seus usuários enviem arquivos para sua API com facilidade.
-- **Autenticação JWT robusta e flexível:** O Token JWT fornece autenticação e autorização seguras para sua API.
-- **Envio de emails com NodeMailer:** Utilize o NodeMailer para enviar emails personalizados e transacionais com facilidade.
+- **Develop Faster & Smarter:** NestJS offers a modular and scalable framework, perfect for complex APIs.
+- **Simplify Data Access:** TypeORM streamlines object-to-entity mapping and SQL execution.
+- **Manage Database Migrations with Confidence:** Migrate your database schema safely and with full control.
+- **Establish Robust & Scalable Database Connections:** Tediouss ensures high-performance connections to Microsoft SQL Server.
+- **Optimize Your APIs for Speed:** Gzip and Brotli compression deliver lightning-fast response times and reduced bandwidth usage.
+- **Enhance Security:** Helmet safeguards your API against common vulnerabilities.
+- **Enforce Robust & Flexible Data Validation:** Class Validator ensures only valid data enters your API.
+- **Transform Data with Ease:** Class Transformer effortlessly converts your objects between different data formats.
+- **Implement Granular Access Control:** Throtller lets you define rate limits for specific endpoints, protecting your API from overload.
+- **Send Emails Smoothly:** Mailer simplifies sending transactional and marketing emails.
+- **Secure Authentication with Encryption:** Bcrypt protects user passwords with high-grade encryption.
+- **Enable Easy & Flexible File Uploads:** Multer empowers your users to upload files to your API seamlessly.
+- **Achieve Robust & Flexible JWT Authentication:** JWT Token provides secure authentication and authorization for your API.
+- **Utilize NodeMailer for Email Sending:** Leverage NodeMailer for sending personalized and transactional emails with ease.
 
-**Dê vida à sua API com este conjunto de ferramentas completo e poderoso!**
+**Bring your API to life with this comprehensive and powerful toolkit!**
 
-**Este conjunto de ferramentas é ideal para:**
+**This toolbox is ideal for:**
 
-- Desenvolvedores que desejam criar APIs robustas e escaláveis com o NestJS.
-- Equipes que buscam um desenvolvimento rápido e eficiente de APIs.
-- Projetos que exigem alto desempenho e segurança.
+- Developers aiming to build robust and scalable APIs with NestJS.
+- Teams seeking rapid and efficient API development.
+- Projects demanding high performance and security.
 
-**Comece a construir sua API incrível hoje mesmo!**
+**Start building your amazing API today!**
 
 ## Installation
 
