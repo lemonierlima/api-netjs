@@ -22,9 +22,36 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## **Desbloqueie o potencial total do seu próximo projeto API com este conjunto de ferramentas poderoso:**
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+**NestJS + TypeORM + Migration + Tediouss + Compression + Helmet + Class Validator + Class Transformer + Throtller + Mailer + Bcrypt + Multer + Token JWT + NodeMailer +**
+
+**Prepare-se para:**
+
+- **Desenvolvimento rápido e eficiente:** O NestJS oferece uma estrutura modular e escalável, ideal para APIs complexas.
+- **Acesso a dados simplificado:** O TypeORM facilita o mapeamento de objetos para entidades e a execução de consultas SQL.
+- **Migrações de banco de dados seguras e confiáveis:** Migre seu esquema de banco de dados com segurança e controle total.
+- **Conexões de banco de dados robustas e escaláveis:** O Tediouss garante conexões de alto desempenho com o Microsoft SQL Server.
+- **APIs otimizadas e com alto desempenho:** A compressão Gzip e Brotli garantem tempos de resposta rápidos e menor uso de largura de banda.
+- **Segurança aprimorada:** O Helmet protege sua API contra vulnerabilidades comuns.
+- **Validação de dados robusta e flexível:** O Class Validator garante que apenas dados válidos sejam aceitos pela sua API.
+- **Transformação de dados fácil e eficiente:** O Class Transformer converte seus objetos em diferentes formatos de dados com facilidade.
+- **Controle de acesso granular:** O Throtller permite que você defina limites de taxa para endpoints específicos, protegendo sua API contra sobrecarga.
+- **Envio de emails com facilidade:** O Mailer facilita o envio de emails transacionais e de marketing.
+- **Autenticação segura com criptografia:** O Bcrypt protege as senhas dos seus usuários com criptografia de alto nível.
+- **Upload de arquivos fácil e flexível:** O Multer permite que seus usuários enviem arquivos para sua API com facilidade.
+- **Autenticação JWT robusta e flexível:** O Token JWT fornece autenticação e autorização seguras para sua API.
+- **Envio de emails com NodeMailer:** Utilize o NodeMailer para enviar emails personalizados e transacionais com facilidade.
+
+**Dê vida à sua API com este conjunto de ferramentas completo e poderoso!**
+
+**Este conjunto de ferramentas é ideal para:**
+
+- Desenvolvedores que desejam criar APIs robustas e escaláveis com o NestJS.
+- Equipes que buscam um desenvolvimento rápido e eficiente de APIs.
+- Projetos que exigem alto desempenho e segurança.
+
+**Comece a construir sua API incrível hoje mesmo!**
 
 ## Installation
 
@@ -39,10 +66,21 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run dev
 
 # production mode
 $ npm run start:prod
+```
+
+## Migration
+
+```bash
+# create migration point
+$ npm run migration: create
+
+$ npm run migration: up
+
+$ npm run migration: down
 ```
 
 ## Test
@@ -58,16 +96,21 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Nestjs Cli
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+```bash
+# create module
+$ nest g mo module-name
 
-## Stay in touch
+# create container
+$ nest g co container-name
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+# create service
+$ nest g s service-name
 
-## License
+#create decorator
+$ nest g d decorators-name
 
-Nest is [MIT licensed](LICENSE).
+#guard
+$ nest g guard auth
+```
